@@ -74,9 +74,8 @@ Para testar e explorar este sistema em sua máquina local:
     ```
 3.  **Instale as dependências:**
     ```bash
-    npm install
-    # ou
-    yarn install
+    npm install ou yarn install 
+    npm install sqlite3
     ```
 4.  **Execute o script principal:**
     Isso iniciará a aplicação e executará as operações CRUD demonstradas.
